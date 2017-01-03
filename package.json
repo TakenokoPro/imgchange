@@ -1,0 +1,22 @@
+{
+  "name": "imgchange",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://TakenokoPro@github.com/TakenokoPro/imgchange.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TakenokoPro/imgchange/issues"
+  },
+  "homepage": "https://github.com/TakenokoPro/imgchange#readme",
+  "dependencies": {
+    "hexo": "^3.2.2"
+  }
+}
