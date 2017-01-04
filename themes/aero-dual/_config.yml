@@ -8,7 +8,7 @@ menu:
 rss: /atom.xml
 
 # Set to false to disable banner
-use_header_cover: true
+use_header_cover: false
 
 # URL of the banner image
 # Put your custom banner image under
